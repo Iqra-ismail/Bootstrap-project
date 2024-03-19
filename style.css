@@ -1,0 +1,189 @@
+
+.head{
+    padding: 25px;
+    background-color: #3b5d50;
+    color: white;
+  
+}
+
+body{
+
+   
+   background-color: antiquewhite;
+    font-weight: 400;
+    line-height: 28px;
+}
+.navbar{
+   
+   background-color: #3b5d50;
+padding: 0%;
+margin: 0%;
+}
+.navbar-nav li:hover{
+   
+    text-decoration: underline;
+    color: yellow; 
+}
+a.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.btn{
+    font-weight: 600;
+    border-radius: 30px;
+    padding: 12px 30px;
+    color: white;
+    border: 1px solid wheat;
+    margin-bottom: 50px;
+}
+.h1 {
+    color: white;
+    font-size: 600;
+    margin-bottom: 30px;
+}
+.container{
+    padding-top: 100px;
+}
+
+
+
+.card{
+  
+    margin-top: 100px;
+    direction: none;
+   
+}
+.hreo p{
+    display: block;
+    margin-bottom: 100px;
+}
+
+
+.card .bi{
+    text-align: center;
+    display: none; 
+}
+.card:hover .bi{
+    display: block;
+
+}
+.card:hover{
+    background-color: rgb(243, 232, 212);
+}
+.row{
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img-wrap img{
+    border-radius: 10%;
+}
+.new{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row{
+    display: flex;
+    
+}
+
+.carousel-inner{
+    background-color: black;
+    
+ 
+  width: 100%;
+  max-height: 600px !important;
+}
+.carousel-inner h6{
+    color: black !important;
+}
+.carousel-inner h4{
+    color: black !important;
+}
+.carousel-inner p{
+    color: black;
+}
+
+.img-area{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 1px solid transparent ;
+    background: 50%;
+   
+}
+.img-area img{
+    border-radius: 50%;
+    width: 100px;
+}
+.carousel-caption{
+    
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+.footer svg {
+    color: black;
+   
+   
+}
+.list-unstyled a{
+    display: flex;
+    text-decoration: none;
+    color: rgb(85, 84, 84);
+}
+.team{
+    margin:50px;
+}
+.Our{
+    text-align: center;
+   font-weight: bold;
+   color: #333;
+   letter-spacing: 2px;
+   text-decoration: underline;
+}
+.card-body a{
+    color: #333;
+}
+
+.card-group{
+    
+    position: relative;
+    padding: 10px;
+   
+}
+
+.hreo .hero-Image img{
+    position: relative;
+    left: -200px;
+    max-width: 780px;
+
+}
+.hreo{
+    height: 200px;
+}
+.carousel-caption{
+    bottom: 180px;
+    padding-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
